@@ -24,12 +24,11 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 
 ## Authors
 
-- [@FunctionError](https://www.github.com/FunctionError)
+
 
 ### 📺 Join us 👇
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/piratestv_ch)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/piratestv403)
+
 
 
 ## Screenshots
@@ -44,11 +43,8 @@ Primarily focused on Bangladeshi users (Use Vlc for PC)
 ```bash
 https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 ```
-Use this link for Toffee Tsports and M3U all-in-one link 👇 ( [Use Ott Navigator for android](https://t.me/piratestvdb/2) )
+Use this link for Toffee Tsports and M3U all-in-one link 👇 
 
-```bash
-https://iptv.piratestv.workers.dev/all
-```
 
 # Contributing
 
